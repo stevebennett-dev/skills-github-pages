@@ -2,3 +2,5 @@ theme: minima
 title: Documentation Repo
 description: Documentation for stuff with versioning
 author: stevebennett-dev
+baseurl: "/skills-github-pages" # or "" for a user site
+url: "https://stevebennett-dev.github.io" # your full domain name
